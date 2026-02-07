@@ -15,8 +15,8 @@ Professional website for EchoAI.ios.
 7. Custom domain: `echoai.ios.aios.is`
 
 ## Live URL
-- GitHub: https://workofarttattoo.github.io/EchoAI.ios
-- Custom: https://echoai.ios.aios.is
+- GitHub: https://workofarttattoo.github.io/Echo.AIos.is
+- Custom: https://echo.aios.is
 
 ## Business Facts
 - **Accuracy**: 97.8%
