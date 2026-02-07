@@ -1,4 +1,4 @@
-# EchoAI.ios Website
+# Echo.aios.is Website
 
 Professional website for EchoAI.ios.
 
